@@ -18,6 +18,7 @@
 A lo largo de mi formación académica y proyectos personales, he adquirido experiencia en tecnologías como JavaScript, React, NestJS y Flutter. Me encanta aprender nuevas herramientas y enfrentar desafíos que me permitan crecer como desarrollador.
 
 Estoy abierto a colaborar en proyectos que me permitan aplicar y ampliar mis conocimientos, así como contribuir al desarrollo de soluciones tecnológicas innovadoras.
+
 ---
 
 ## 🎓 Educación
