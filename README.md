@@ -13,8 +13,11 @@
 
 ## 👨‍💻 Sobre Mí
 
-¡Bienvenido/a a mi perfil! Soy un desarrollador FullStack con un fuerte enfoque en el **desarrollo móvil** y una pasión por crear soluciones tecnológicas innovadoras. Aunque disfruto trabajar en todas las capas de un proyecto, mi corazón late más rápido con Flutter y las tecnologías móviles. Actualmente, combino mis estudios universitarios con proyectos prácticos para seguir creciendo profesionalmente.
+¡Hola! Soy Marco Toledo, estudiante de noveno semestre de Ingeniería de Sistemas en la Universidad Autónoma Gabriel René Moreno (UAGRM), en Santa Cruz de la Sierra, Bolivia. Me apasiona el desarrollo de software, especialmente en el ámbito móvil, donde disfruto creando aplicaciones funcionales y atractivas utilizando Flutter.
 
+A lo largo de mi formación académica y proyectos personales, he adquirido experiencia en tecnologías como JavaScript, React, NestJS y Flutter. Me encanta aprender nuevas herramientas y enfrentar desafíos que me permitan crecer como desarrollador.
+
+Estoy abierto a colaborar en proyectos que me permitan aplicar y ampliar mis conocimientos, así como contribuir al desarrollo de soluciones tecnológicas innovadoras.
 ---
 
 ## 🎓 Educación
