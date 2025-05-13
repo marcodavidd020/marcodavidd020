@@ -19,6 +19,8 @@ A lo largo de mi formación académica y proyectos personales, he adquirido expe
 
 Estoy abierto a colaborar en proyectos que me permitan aplicar y ampliar mis conocimientos, así como contribuir al desarrollo de soluciones tecnológicas innovadoras.
 
+🔁 **Repositorio Secundario**: [marquito020](https://github.com/marquito020)
+
 ---
 
 ## 🎓 Educación
@@ -50,7 +52,7 @@ Estoy abierto a colaborar en proyectos que me permitan aplicar y ampliar mis con
 
 ## 🏆 Logros y Reconocimientos
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=marcodavidd020&theme=onedark&no-bg=true&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=marcodavidd020&theme=juicyfresh&no-bg=true&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
