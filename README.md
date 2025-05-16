@@ -4,7 +4,7 @@
     ¡Hola! Soy Marco Toledo
   </h1>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Desarrollador+FullStack;Apasionado+por+el+Desarrollo+Móvil;Estudiante+de+Ingeniería+de+Sistemas)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Desarrollador+FullStack;Apasionado+por+el+Desarrollo+Móvil;Estudiante+de+Ingeniería+de+Informatica)](https://git.io/typing-svg)
 
   ![Visitas al perfil](https://komarev.com/ghpvc/?username=marcodavidd020&label=Visitas&color=blue&style=flat-square)
 </div>
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Sobre Mí
 
-¡Hola! Soy Marco Toledo, estudiante de noveno semestre de Ingeniería de Sistemas en la Universidad Autónoma Gabriel René Moreno (UAGRM), en Santa Cruz de la Sierra, Bolivia. Me apasiona el desarrollo de software, especialmente en el ámbito móvil, donde disfruto creando aplicaciones funcionales y atractivas utilizando Flutter.
+¡Hola! Soy Marco Toledo, estudiante de noveno semestre de Ingeniería de Informatica en la Universidad Autónoma Gabriel René Moreno (UAGRM), en Santa Cruz de la Sierra, Bolivia. Me apasiona el desarrollo de software, especialmente en el ámbito móvil, donde disfruto creando aplicaciones funcionales y atractivas utilizando Flutter.
 
 A lo largo de mi formación académica y proyectos personales, he adquirido experiencia en tecnologías como JavaScript, React, NestJS y Flutter. Me encanta aprender nuevas herramientas y enfrentar desafíos que me permitan crecer como desarrollador.
 
